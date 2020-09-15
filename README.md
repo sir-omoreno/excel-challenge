@@ -20,9 +20,9 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 
   * Create two new columns, one called `Category` at Q and another called `Sub-Category` at R, which use formulas to split the `Category and Sub-Category` column into two parts.
 
-**Helpful Link to split columns with a formula"*
+**Helpful Link to split columns with a formula**
 
-  *See [https://exceljet.net/formula/split-text-string-at-specific-character]
+  *See [this page](https://exceljet.net/formula/split-text-string-at-specific-character)
 
   * Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 
